@@ -1,3 +1,6 @@
 # php_fswebcam
-using fswebcam to capture picture, and return it using php.
-You need fswebcam installed.
+Using **fswebcam** to capture picture, and return it using PHP.
+
+Try it on your **Raspberry Pi**.
+
+You need **fswebcam** installed first, and a **webcam**.
